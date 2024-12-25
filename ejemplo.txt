@@ -1,0 +1,11 @@
+
+Crear el cluster
+doctl kubernetes cluster create mono-cluster --region nyc1 --node-pool "name=default;size=s-1vcpu-2gb;count=3"
+
+
+Obtener contexto
+doctl kubernetes cluster kubeconfig save mono-cluster
+
+
+Escalar el cluster
+doctl kubernetes cluster update mono-cluster --node-pool "name=default;size=s-1vcpu-2gb;nodes=5"

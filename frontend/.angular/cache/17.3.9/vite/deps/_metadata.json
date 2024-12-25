@@ -1,0 +1,85 @@
+{
+  "hash": "440e7ed9",
+  "configHash": "68434846",
+  "lockfileHash": "97faa513",
+  "browserHash": "3faa95a7",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "36d1d12d",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "d10cf339",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "5b371f04",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "815e6b2f",
+      "needsInterop": false
+    },
+    "@angular/material/dialog": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/dialog.mjs",
+      "file": "@angular_material_dialog.js",
+      "fileHash": "fd9fdec7",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "a9fe6b3e",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations/async": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations/async.mjs",
+      "file": "@angular_platform-browser_animations_async.js",
+      "fileHash": "6f7089ac",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "16c4cb28",
+      "needsInterop": false
+    },
+    "swiper/element/bundle": {
+      "src": "../../../../../node_modules/swiper/swiper-element-bundle.mjs",
+      "file": "swiper_element_bundle.js",
+      "fileHash": "0c7f9a76",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "browser-VGGYRVLI": {
+      "file": "browser-VGGYRVLI.js"
+    },
+    "chunk-ARDWEBIF": {
+      "file": "chunk-ARDWEBIF.js"
+    },
+    "chunk-STYTFVM6": {
+      "file": "chunk-STYTFVM6.js"
+    },
+    "chunk-H3DHN74Q": {
+      "file": "chunk-H3DHN74Q.js"
+    },
+    "chunk-HQ37XBJE": {
+      "file": "chunk-HQ37XBJE.js"
+    },
+    "chunk-RFNOPQ2W": {
+      "file": "chunk-RFNOPQ2W.js"
+    },
+    "chunk-J4B6MK7R": {
+      "file": "chunk-J4B6MK7R.js"
+    }
+  }
+}
